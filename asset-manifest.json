@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arcgis-react-ui/static/css/main.33befb2b.chunk.css",
+    "main.js": "/arcgis-react-ui/static/js/main.c675c15f.chunk.js",
+    "main.js.map": "/arcgis-react-ui/static/js/main.c675c15f.chunk.js.map",
+    "runtime-main.js": "/arcgis-react-ui/static/js/runtime-main.af90d5c5.js",
+    "runtime-main.js.map": "/arcgis-react-ui/static/js/runtime-main.af90d5c5.js.map",
+    "static/js/2.5934f8b2.chunk.js": "/arcgis-react-ui/static/js/2.5934f8b2.chunk.js",
+    "static/js/2.5934f8b2.chunk.js.map": "/arcgis-react-ui/static/js/2.5934f8b2.chunk.js.map",
+    "index.html": "/arcgis-react-ui/index.html",
+    "precache-manifest.ce001e1e7f9a9a8247e863a9fdaa401e.js": "/arcgis-react-ui/precache-manifest.ce001e1e7f9a9a8247e863a9fdaa401e.js",
+    "service-worker.js": "/arcgis-react-ui/service-worker.js",
+    "static/css/main.33befb2b.chunk.css.map": "/arcgis-react-ui/static/css/main.33befb2b.chunk.css.map",
+    "static/js/2.5934f8b2.chunk.js.LICENSE.txt": "/arcgis-react-ui/static/js/2.5934f8b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af90d5c5.js",
+    "static/js/2.5934f8b2.chunk.js",
+    "static/css/main.33befb2b.chunk.css",
+    "static/js/main.c675c15f.chunk.js"
+  ]
+}
